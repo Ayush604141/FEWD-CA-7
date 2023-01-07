@@ -2,6 +2,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Averia+Libre&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Rowdies&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap");
+#root{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
 .container h1 {
   position: relative;
   bottom: 150px;
